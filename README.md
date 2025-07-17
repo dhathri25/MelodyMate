@@ -87,13 +87,13 @@ Please fork the repository, create a feature branch, and submit a pull request w
 
 ## 📄 License
 
-Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
+Distributed under the MIT License. See (LICENSE) for more information.
 
 ---
 
 ## 👨‍💻 Author
 
-* **Your Name** — [Your GitHub](https://github.com/yourusername)
+* **Dhathri Putty** — [Your GitHub](https://github.com/yourusername)
 
 ---
 
